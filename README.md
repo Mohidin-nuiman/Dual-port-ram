@@ -38,22 +38,6 @@ The objective of this repository is not only to implement a Dual Port RAM but al
 
 ---
 
-# Dual Port RAM Architecture
-
-
-                    +---------------------------+
-                    |      Dual Port RAM        |
-                    |                           |
- Write Enable ----->|                           |
- Write Address ---->|                           |
- Write Data ------->|                           |
-                    |       Memory Array        |
- Read Enable -----> |                           |
- Read Address ----->|                           |
-                    |                           |
- Read Data <---------                           |
-                    +---------------------------+
-```
 
 This implementation is a Simple Dual Port RAM, where:
 
@@ -176,6 +160,8 @@ The verification environment performs the following sequence:
 6. Report PASS or FAIL for every transaction.
 
 ---
+
+# NOTE : I will be providing the Dual Port Ram Architecture aswell as Testbench Architecture 
 
 # Requirements
 
