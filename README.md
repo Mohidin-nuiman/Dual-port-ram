@@ -161,7 +161,7 @@ The verification environment performs the following sequence:
 
 ---
 
-# NOTE : I will be providing the Dual Port Ram Architecture aswell as Testbench Architecture 
+# NOTE : I will be providing the Dual Port Ram Architecture as well as Testbench Architecture 
 
 # Requirements
 
