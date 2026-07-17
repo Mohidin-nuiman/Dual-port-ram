@@ -22,6 +22,8 @@ The memory size is configurable through parameters, making the design reusable f
 
 ---
 
+
+
 # Module Declaration
 
 ```systemverilog
